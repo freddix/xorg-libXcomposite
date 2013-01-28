@@ -1,11 +1,11 @@
 Summary:	X Composite extension library
 Name:		xorg-libXcomposite
-Version:	0.4.3
-Release:	3
+Version:	0.4.4
+Release:	1
 License:	MIT
 Group:		X11/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/lib/libXcomposite-%{version}.tar.bz2
-# Source0-md5:	a60e0b5c276d0aa9e2d3b982c98f61c8
+# Source0-md5:	f7a218dcbf6f0848599c6c36fc65c51a
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
